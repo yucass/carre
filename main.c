@@ -25,6 +25,7 @@ scanf("%d",&choixLarg);
     for(lon=1;lon<=choixLon;lon++){
 //boucle de 0 àgauche
         for(lon=1;lon<=choixLon;lon++){ printf("0");
+
         for (larg=1;larg<=choixLarg;larg++){printf("*");
         }
 //boucle de 0 àdroite
